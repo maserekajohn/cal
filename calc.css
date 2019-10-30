@@ -1,0 +1,26 @@
+.calculator{
+    border:  5px red solid;
+    width: 400px;
+}
+.calcrow{
+    border: 5px blue solid;
+    border: flex;
+    background-color: brown;
+    justify-content: space-between;
+    margin-bottom: 0.5%
+}
+section{
+background-color: white;
+color: gray;
+text-align: right;
+padding: 10px 5px;
+font-size: 40px;
+}
+.calbotton{
+    background-color: #8d9d;
+    font-size: 40px;
+    flex-basis: 24.5%
+}
+.calbotton:hover{
+    background-color: red;
+}
